@@ -1,0 +1,30 @@
+CONTROL VERSION SYSTEM BITKEEPER
+
+    BitKeeper é uma ferramenta de software para controle de versão distribuído (gerenciamento de configuração, SCM, etc)
+do código fonte do computador. Um sistema distribuído, BitKeeper concorre em grande parte contra outros sistemas, 
+como o Git e Mercurial. BitKeeper é produzido por BitMover Inc., uma empresa privada sediada em Campbell, Califórnia , 
+ e de propriedade do CEO Larry McVoy, que já havia projetado TeamWare.
+    BitKeeper baseia-se em muitos dos conceitos TeamWare. Seu ponto de venda é o fato de que ele é uma ferramenta de controle
+de versão distribuído, ao contrário do CVS ou SVN. Uma das características definidoras de qualquer ferramenta de controle
+de versão distribuído é a facilidade com que as equipes de desenvolvimento distribuídas podem manter seus próprios 
+repositórios locais e ainda trabalhar com o repositório central. Seu web site afirma que "BitKeeper foi mostrado para o 
+dobro do ritmo de desenvolvimento de software".
+    BitKeeper usa arquivos de histórico que são baseados na idéia das tabelas delta e deltas entrelaçados de CCSC, mas os 
+arquivos de histórico do BitKeeper são feitos intencionalmente incompatível usando um número mágico diferente
+(0x48 0x01 em vez de 0x68 0x01) no início. [Carece de fontes?]
+    BitKeeper é um software proprietário e normalmente é vendido ou arrendado (como parte de um pacote de apoio) para as
+empresas de médio ou grande porte. 
+
+      BitKeeper foi mencionado pela primeira vez como uma solução para algumas das dores de crescimento que o Linux estava 
+   tendo, em Setembro de 1998. [4] betas acesso antecipado estavam disponíveis em Maio de 1999 [5] e em 4 de maio de 2000,
+   a primeira versão pública do BitKeeper foi disponibilizado . [6] [7] BitMover usado para fornecer acesso ao sistema 
+   com certeza projetos de software livre de código aberto, ou, o mais famoso (e polêmico) do qual era o código-fonte do 
+   kernel do Linux. A licença para a versão de "comunidade" de BitKeeper tinha permitido aos desenvolvedores usar a 
+   ferramenta, sem nenhum custo para projetos de software livre ou open source, desde que os desenvolvedores não 
+   participar no desenvolvimento de uma ferramenta de competição (como CVS, GNU Arch, Subversion ou ClearCase) para a 
+   duração do seu uso de BitKeeper mais um ano. Esta restrição aplicada independentemente da ferramenta competindo está 
+   aberto / livre ou proprietário. Esta versão do BitKeeper também necessário que certas meta-informação sobre as mudanças 
+   sejam armazenados nos servidores operados por BitMover (www.openlogging.org), uma adição que tornou impossível para os 
+   usuários da versão da comunidade para executar projetos de BitMover que não tinha conhecimento.
+   
+    
